@@ -1,0 +1,54 @@
+
+Alert
+document.getElementByID("button name here").onclick = function() {
+
+//
+
+}
+
+change HTML content
+document.getElementByID("button name here").onclick = function() {
+
+documebt.getElemenByID(" Id name of fiv here").innerHTML = " ";
+
+}
+
+change style
+
+document.getElementByID("button name here").onclick = function() {
+
+documebt.getElemenByID(" Id name of fiv here").style.width = " ";
+
+}
+
+console.log(tyleof(    ));
+
+math random
+
+var x;
+
+x= Math.Round(Math.random()*266);
+console.log(x);
+
+var x,y,z,color;
+document.getElementByiD(" ").onclick = function(){
+x= Math.Round(Math.random()*266);
+y= Math.Round(Math.random()*266);
+z= Math.Round(Math.random()*266);
+color= 'rgb('+x','+y','+z');
+
+document.getELementById("   ").onclick=fucntion(){
+document.getElementByid(color);
+}
+
+
+/\w/g; Alpha numeric
+/\W/g; non alpha numeric
+/\s/g; for space
+/\d{4}/g ; finding exact number
+/^A/g; for first letter of the string
+/\n/g; for line break
+
+
+
+

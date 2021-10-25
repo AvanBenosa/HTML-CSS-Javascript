@@ -1,0 +1,26 @@
+	flex properties    
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 150px;
+
+
+explicit grid and miplicit grid
+
+grid properties
+display :grid;
+grid-template-row:1fr 1fr 1fr 1 fr;
+grid-template-column:repeat(auto-fill, minmax(300px,1fr));
+grid-gap:5px;
+
+align-items is for vertical
+justify-content- horizontal
+
+place-item: center(vertical) center(horizontal); 
+place-content:center center;   
